@@ -7,7 +7,7 @@
  
   
   
-  Nanme-Ankita 
+  Name-Ankita 
   email Id-deeparajput5348@gmail.com
   college rollno-1921010
   designation-student at guru nanak dev engineering college
